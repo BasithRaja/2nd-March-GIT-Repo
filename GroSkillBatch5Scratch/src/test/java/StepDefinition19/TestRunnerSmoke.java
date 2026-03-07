@@ -17,6 +17,6 @@ plugin = { "pretty", "html:target/HtmlReports/index.html","json:target/cucumber-
 
 )
 
-public class TestRunnerSmoke extends AbstractTestNGCucumberTests {
+public class TestRunnerSmoke{
 
 }
